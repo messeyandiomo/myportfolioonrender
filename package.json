@@ -1,7 +1,7 @@
 {
   "name": "myportfolioonrender",
   "version": "1.0.0",
-  "description": "",
+  "description": "A full stack myportfolio (client and server side) hosting on render.com",
   "main": "index.js",
   "scripts": {
     "start": "node serverside/index.js",
