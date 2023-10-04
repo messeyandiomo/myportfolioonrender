@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <BrowserRouter basename="/myportfolio">
+        <BrowserRouter basename="/">
           <Routes>
             <Route path="/" element={<NavBar />}>
               <Route index element={<Home />} />
